@@ -16,12 +16,14 @@ In this project, Two(2) websites were hosted in two different AZs, to ensure the
 
 This user data were passed into the instance, and they can be used to perform common automated configuration tasks and even run scripts after the instance starts.
 
-#Image of the site running in the first instance in AWS
+# Image of the site running in the first instance in AWS
+
 http://ec2-3-239-222-13.compute-1.amazonaws.com/
 
 ![instance 1](https://github.com/Benn1440/AWS-zones/assets/67696393/27ab0323-add0-44b8-a47b-e955e88d7836)
 
-#Image of the site running in the second instance in a different AZ in AWS
+# Image of the site running in the second instance in a different AZ in AWS
+
 http://ec2-3-93-246-108.compute-1.amazonaws.com/
 
 ![Instance 2](https://github.com/Benn1440/AWS-zones/assets/67696393/5ac199d6-b0ca-4cd7-8568-a574f0eeb996)
@@ -32,4 +34,4 @@ An Availability Zone (AZ) is one or more discrete data centers with redundant po
 
 Reference: https://aws.amazon.com/about-aws/global-infrastructure/regions_az/
 
-N.B: Running Instances would be Terminated to avoid Incurring cost
+# N.B: Running Instances would be Terminated to avoid Incurring cost
